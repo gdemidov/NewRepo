@@ -14,7 +14,6 @@ namespace Lab4_2
             int otr = 0;
             int n;
             Console.WriteLine("Введите числа (0 для выхода):");
-            //int n = Convert.ToInt32(Console.ReadLine());
             do
             {
                 n = Convert.ToInt32(Console.ReadLine());
